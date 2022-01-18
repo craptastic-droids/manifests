@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Trees -->
+  <project name="craptastic-droids/android_device_samsung_gts210vewifi" path="device/samsung/gts210vewifi" revision="lineage-17.1" />
+  <project name="craptastic-droids/android_device_samsung_msm8976-common" path="device/samsung/msm8976-common" revision="lineage-17.1" />
+  
+  <!-- Kernel Sources -->
+  <project name="craptastic-droids/android_kernel_samsung_msm8976" path="kernel/samsung/msm8976" revision="lineage-17.1" />
+
+  <!-- Vendor Trees -->
+  <project name="craptastic-droids/proprietary_vendor_samsung_msm8976" path="vendor/samsung" revision="lineage-17.1" />
+  
+  <!-- Hardware Specific Resources -->
+  <project name="craptastic-droids/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" />
+  <project name="craptastic-droids/android_hardware_sony_timekeep" path="hardware/sony/timekeep" revision="lineage-17.1" />
+</manifest>
