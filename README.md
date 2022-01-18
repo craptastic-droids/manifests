@@ -1,8 +1,7 @@
 
 
 
-Device Tree for Fire HD 8 / 2018 / 8th Gen (karnak)
-===========================================
+#### Device Tree for Fire HD 8 / 8th Gen / 2018 (karnak)
 
 Basic   | Spec Sheet
 -------:|:----------
@@ -14,13 +13,11 @@ ROM     | 16/32 GB
 RAM     | 1.5 GB
 Android | 7.1.2 
 Battery | 4750 mAh
-Display | 1200x800, 8.0
+Display | 1200x800, 8.0in
 Front Camera | 2.0 MP
 Rear Camera  | 2.0 MP
 
-
-Device Tree for Fire HD 8 / 2017 / 7th Gen (douglas)
-===========================================
+#### Device Tree for Fire HD 8 / 7th Gen / 2017 (douglas)
 
 Basic   | Spec Sheet
 -------:|:--------------------------------------------------
@@ -31,14 +28,12 @@ GPU     | Mali-T720 MP2
 Memory  | 1.5 GB RAM
 Storage | 16/32 GB
 Battery | 2980 mAh
-Display | 1200x800, 8.0
+Display | 1200x800, 8.0in
 Radio FM| N/A
 Front Camera  | 0.3 MP
 Rear Camera  | 2 MP
 
-
-Device Tree for Samsung Galaxy Tab S2 9.7 (gts210vewifi)
-===========================================
+#### Device Tree for Samsung Galaxy Tab S2 9.7 / 2016 (gts210vewifi)
 
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -49,7 +44,7 @@ GPU     | Adreno 510
 Memory  | 3 GB RAM
 Storage | 32/64 GB
 Battery | 5870 mAh
-Display | 1536x2048, 9.7
+Display | 1536x2048, 9.7in
 Front Camera  | 2.1 MP
 Rear Camera  | 8.0 MP
 
